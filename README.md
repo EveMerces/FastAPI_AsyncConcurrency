@@ -18,10 +18,7 @@ Este repositório contém materiais, exemplos e projetos relacionados ao desenvo
 - `tests/`: Scripts de teste para garantir a funcionalidade das APIs.
 
 
-## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+![image](https://github.com/user-attachments/assets/e91b75ad-9ce6-46ef-a0a7-53409f564507)
 
----
 
-Sinta-se à vontade para adicionar novos conteúdos e exemplos conforme você avança nos seus estudos e projetos. Se precisar de mais alguma coisa, é só falar! 😊
