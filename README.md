@@ -18,7 +18,5 @@ Este repositório contém materiais, exemplos e projetos relacionados ao desenvo
 - `tests/`: Scripts de teste para garantir a funcionalidade das APIs.
 
 
-
-![image](https://github.com/user-attachments/assets/e91b75ad-9ce6-46ef-a0a7-53409f564507)
-
+!API GIF
 
