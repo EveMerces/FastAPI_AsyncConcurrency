@@ -18,5 +18,5 @@ Este repositório contém materiais, exemplos e projetos relacionados ao desenvo
 - `tests/`: Scripts de teste para garantir a funcionalidade das APIs.
 
 
-![API GIF](https://github.com/EveMerces/Fast_API_AsyncConcurrency/raw/main/api-c99e353f761d318322c853c03ebcf21b.gif
 
+![api-c99e353f761d318322c853c03ebcf21b](https://github.com/user-attachments/assets/037cce6a-246a-4132-9619-9573c6e871de)
